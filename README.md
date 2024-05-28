@@ -1,5 +1,6 @@
 This is a practice project from Traversy Media YT Channel:
-https://www.youtube.com/watch?v=HXYZxVbWkjc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=67
+https://www.youtube.com/watch?v=HXYZxVbWkjc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=67,
+
 https://github.com/bradtraversy/saas-landing-page
 
 
